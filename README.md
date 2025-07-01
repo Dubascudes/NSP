@@ -1,6 +1,6 @@
 # NSP: A Neuro-Symbolic Natural Language Navigational Planner
 
-This repository contains materials related to (this paper)[https://ieeexplore.ieee.org/abstract/document/10903323] published at ICMLA 2024. A preprint version can be found (here)[https://arxiv.org/pdf/2409.06859]. In our paper, we comapre our proposed framework against 4 other prompt-based approaches. Ours is distinguished by the inclusion of a solver with which the reasoning model can interact with. This solver is the Python interpreter + networkx, a library for reasoning about graphs.
+This repository contains materials related to [this paper](https://ieeexplore.ieee.org/abstract/document/10903323) published at ICMLA 2024. A preprint version can be found [here](https://arxiv.org/pdf/2409.06859). In our paper, we comapre our proposed framework against 4 other prompt-based approaches. Ours is distinguished by the inclusion of a solver with which the reasoning model can interact with. This solver is the Python interpreter + networkx, a library for reasoning about graphs.
 
 
 # Instructions
